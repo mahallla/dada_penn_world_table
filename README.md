@@ -1,6 +1,6 @@
 # Limpeza dos dados da *Peen World Table*.
 ---
-No momento, estou selecionando apenas os dados referentes ao Brasil. 
+Este repositório contém o conjunto de dados disponivél no *Peen World Table* referente ao Brasil. 
 
 ---
 
@@ -10,9 +10,17 @@ No momento, estou selecionando apenas os dados referentes ao Brasil.
 
 ### 2. **Processo de organização e limpeza:**
 
-Por se tratar de um banco de dados internacional, todas as variaveis estão em inglês. Assim, o processo de limpeza consistiu em:
-  - Traduzir as variaveis de acordo com o documento disponível no [Guia do Usuário do PWT 9.1](https://www.rug.nl/ggdc/docs/pwt91_user_guide_to_data_files.pdf); e,
-  - Renomear as colunas, já traduzidas, retirando as siglas e adicionando os nomes completos de cada uma das variáveis*.
+Por se tratar de um banco de dados internacional, todas as variaveis estão em inglês. Assim, o processo de organização e limpeza consistiu em:
+
+  - Traduzir as variaveis (colunas) de acordo com o documento disponível no [Guia do Usuário do PWT 9.1](https://www.rug.nl/ggdc/docs/pwt91_user_guide_to_data_files.pdf) e as informações adicionais do *site*; e,
+  - Renomear as colunas, já traduzidas, retirando as siglas e adicionando os nomes completos de cada uma das variáveis.
+  
+**_Observação_**: As colunas com dados NA não foram retiradas. Caso o seu estudo precise omitir os dados NA, basta rodar o cógido:
+  
+  ```
+  dados_brasil <- na.omit(dados_brasil)
+  
+  ``` 
  
 ### 3. **_Software_ utilizado:**
   - R.
