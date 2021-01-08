@@ -28,16 +28,16 @@ Por se tratar de um banco de dados internacional, todas as variaveis estão em i
 
 ### 4. **Andamento do processo:**
 
-- **PIB real, níveis de emprego e população:**
+1. **PIB real, níveis de emprego e população:**
 
-- :white_check_mark: PIB real do lado da despesa em PPPs encadeadas (em US $ mil. 2011).
-- :white_check_mark: PIB real do lado da produção em PPPs encadeadas (em US $ mil. 2011).
-- :white_check_mark: População (em milhões).
-- :white_check_mark: Número de pessoas ocupadas (em milhões).
-- :white_check_mark: Média anual de horas trabalhadas por pessoas contratadas.
-- :white_check_mark: Índice de capital humano, baseado em anos de escolaridade e retornos à educação.
+-  PIB real do lado da despesa em PPPs encadeadas (em US $ mil. 2011) :white_check_mark:
+-  PIB real do lado da produção em PPPs encadeadas (em US $ mil. 2011) :white_check_mark:
+-  População (em milhões) :white_check_mark:
+-  Número de pessoas ocupadas (em milhões) :white_check_mark:
+-  Média anual de horas trabalhadas por pessoas contratadas :white_check_mark:
+-  Índice de capital humano, baseado em anos de escolaridade e retornos à educação :white_check_mark:
 
-- **Preço atual PIB, capital e produtividade total dos fatores:**
+2. **Preço atual PIB, capital e produtividade total dos fatores:**
 
 - [ ] Consumo real das famílias e do governo, nas PPPs atuais (em mil. US $ 2011)
 - [ ] Absorção doméstica real, consumo real mais investimento, nas PPPs atuais (em US $ mil. 2011)
