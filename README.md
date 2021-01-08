@@ -1,13 +1,13 @@
-# Limpeza dos dados da *Peen World Table*.
+# Limpeza dos dados da *Penn World Table*.
 ---
 
-Este repositório contém o conjunto de dados disponível no *Peen World Table* referente ao Brasil, organizados e limpos. Aqui você vai encontrar, pronto para *download*, os dados em xlsx e o código utilizado para tratar os dados em .R. 
+Este repositório contém o conjunto de dados disponível no *Penn World Table* referente ao Brasil, organizados e limpos. Aqui você vai encontrar, pronto para *download*, os dados em .xlsx e o código utilizado para tratar os dados em .R. 
 
 ---
 
 ### 1. **Sobre o Banco de Dados:**
 
-*[Peen World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)* é uma plataforma que disponibiliza dados como: níveis relativos de renda, produção, insumos e produtividade para um conjuto de 182 países de 1950 a 2017. 
+*[Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)* é uma plataforma que disponibiliza dados como: níveis relativos de renda, produção, insumos e produtividade para um conjuto de 182 países de 1950 a 2017. 
 
 ### 2. **Processo de organização e limpeza:**
 
@@ -16,7 +16,7 @@ Por se tratar de um banco de dados internacional, todas as variaveis estão em i
   - Traduzir as variaveis (colunas) de acordo com o documento disponível no [Guia do Usuário do PWT 9.1](https://www.rug.nl/ggdc/docs/pwt91_user_guide_to_data_files.pdf) e as informações adicionais do *site*; e,
   - Renomear as colunas, já traduzidas, retirando as siglas e adicionando os nomes completos de cada uma das variáveis.
   
-**_Observação_**: As linhas NA não foram retiradas. Caso o seu estudo precise omitir valores NA, basta rodar o cógido:
+**_Observação_**: As linhas 'NA' não foram retiradas. Caso o seu estudo precise omitir valores NA, basta rodar o cógido:
   
   ```
   dados_brasil <- na.omit(dados_brasil)
