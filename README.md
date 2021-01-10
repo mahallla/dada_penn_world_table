@@ -39,15 +39,28 @@ Por se tratar de um banco de dados internacional, todas as variaveis estão em i
 
 2. **Preço atual PIB, capital e produtividade total dos fatores:**
 
-- [ ] Consumo real das famílias e do governo, nas PPPs atuais (em mil. US $ 2011)
-- [ ] Absorção doméstica real, consumo real mais investimento, nas PPPs atuais (em US $ mil. 2011)
-- [ ] PIB real do lado da despesa nas PPPs atuais (em US $ mil. 2011)
-- [ ] PIB real do lado da produção nas PPPs atuais (em US $ mil. 2011)
-- [ ] Estoque de capital nas PPPs atuais (em US $ mil. 2011)
-- [ ] Níveis de serviços de capital nas PPPs atuais (EUA = 1)
-- [ ] Nível de produtividade Total dos fatores nos PPPs atuais (EUA = 1)
-- [ ] Níveis de produtividade Total dos fatores relevantes para o bem-estar nas PPPs atuais (EUA = 1)
+- [x] Consumo real das famílias e do governo, nas PPPs atuais (em mil. US $ 2011)
+- [x] Absorção doméstica real, consumo real mais investimento, nas PPPs atuais (em US $ mil. 2011)
+- [x] PIB real do lado da despesa nas PPPs atuais (em US $ mil. 2011)
+- [x] PIB real do lado da produção nas PPPs atuais (em US $ mil. 2011)
+- [x] Estoque de capital nas PPPs atuais (em US $ mil. 2011)
+- [x] Níveis de serviços de capital nas PPPs atuais (EUA = 1)
+- [x] Nível de produtividade Total dos fatores nos PPPs atuais (EUA = 1)
+- [x] Níveis de produtividade Total dos fatores relevantes para o bem-estar nas PPPs atuais (EUA = 1)
+
+3. **Variáveis baseadas nas contas nacionais**:
+
+- [ ] PIB real a preços nacionais constantes de 2011 (em US $ mil. 2011)
+- [ ] Consumo real a preços nacionais constantes de 2011 (em US $ mil. 2011)
+- [ ] Absorção doméstica real a preços nacionais constantes de 2011 (em US $ mil. 2011)
+- [ ] Estoque de capital a preços nacionais constantes de 2011 (em US $ mil. 2011)
+- [ ] Serviços de capital a preços nacionais constantes de 2011 (2011 = 1)
+- [ ] Produtividade total dos fatores a preços nacionais constantes (2011 = 1)
+- [ ] Produtividade total dos fatores  relevante para o bem-estar a preços nacionais constantes (2011 = 1)
+- [ ] Participação da remuneração do trabalho no PIB a preços nacionais atuais
+- [ ] Taxa interna de retorno real
+- [ ] Taxa média de depreciação do estoque de capital
 
 
 
- 
+
